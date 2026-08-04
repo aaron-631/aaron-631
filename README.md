@@ -20,7 +20,7 @@ I build AI systems from first principles and test how they fail in the real worl
 | Security | 20+ live-application VAPTs · responsibly disclosed and remediated a reflected XSS in Yatra’s production Diya AI chatbot |
 | Competition | **AIR 45** at Pentathon 2025 · top 0.90% globally · 48-hour national CTF |
 | Leadership | IoT Lab Coordinator at KIIT · 30+ member technical community · CTF organiser and mentor |
-| Credentials | eJPTv2 — 91% · SAP Certified Backend Developer · SSB TES-51 — AIR 83 |
+| Credentials | eJPTv2: 91% · SAP Certified Backend Developer · SSB TES-51: AIR 83 |
 
 ## Featured projects
 
@@ -52,11 +52,11 @@ A live visual playground for six classical AI search algorithms, with D3.js sear
 
 ## Experience
 
-- **Technology Apprentice · DBS Tech India SEED** — Jun 2026–present
-- **AI/ML Research Intern · SwiftSafe** — Mar 2026–Jun 2026
-- **Lab Coordinator · IoT Lab, KIIT** — Sep 2024–Aug 2026
-- **Security Testing Intern · Panacea Infosec** — May 2024–Jul 2024
-- **Cyber Security & AI/ML Intern · The Red Users** — Dec 2024–Jan 2025
+- **Technology Apprentice · DBS Tech India SEED** · Jun 2026 to present
+- **AI/ML Research Intern · SwiftSafe** · Mar 2026 to Jun 2026
+- **Lab Coordinator · IoT Lab, KIIT** · Sep 2024 to Aug 2026
+- **Security Testing Intern · Panacea Infosec** · May 2024 to Jul 2024
+- **Cyber Security & AI/ML Intern · The Red Users** · Dec 2024 to Jan 2025
 
 ## Core stack
 
@@ -67,11 +67,11 @@ A live visual playground for six classical AI search algorithms, with D3.js sear
 - Working in the DBS Tech India SEED apprenticeship programme.
 - Moving VantaLLM toward a releasable cybersecurity-focused base model.
 - Building and validating Argus as a practical AI-agent security control plane.
-- Open to AI/ML engineering, security engineering, and AI security research opportunities for the 2026–27 placement cycle.
+- Open to AI/ML engineering, security engineering, and AI security research opportunities for the 2026-27 placement cycle.
 
 ## Education
 
-**B.Tech in Computer Science and Engineering** — Kalinga Institute of Industrial Technology, Bhubaneswar · 2023–2027 · **CGPA 9.42**
+**B.Tech in Computer Science and Engineering** · Kalinga Institute of Industrial Technology, Bhubaneswar · 2023 to 2027 · **CGPA 9.42**
 
 ## Let’s connect
 
